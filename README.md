@@ -1,6 +1,6 @@
 # AIML425-A3
 
-[![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-blue)](https://www.kaggle.com/code/curtismellsop/notebooka4c1a5197a))
+[![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-blue)](https://www.kaggle.com/code/curtismellsop/notebooka4c1a5197a)
 
 ## Comments
 - I just noticed that my information rate wasn't working proeperly in the code I had saved as I had changed how my code worked, meaning the noise level was being taken from the wrong part
